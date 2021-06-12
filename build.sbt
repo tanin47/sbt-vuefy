@@ -28,7 +28,7 @@ organizationName := "tanin47"
 
 Test / publishArtifact := false
 
-organizationHomepage := Some(url("https://github.com/tanin47/sbt-vuefy"))
+homepage := Some(url("https://github.com/tanin47/sbt-vuefy"))
 
 publishMavenStyle := true
 publishTo := {
